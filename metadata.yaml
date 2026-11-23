@@ -1,0 +1,6 @@
+name: astrbot_plugin_saucenao_search
+display_name: SauceNAO 搜图
+desc: 用 SauceNAO 反查二次元图片出处，支持群图直接上传
+version: v1.0.1
+author: Frieren
+repo: https://github.com/wonlie95/astrbot_plugin_saucenao_search
