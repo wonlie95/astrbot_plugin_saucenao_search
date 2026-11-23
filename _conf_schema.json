@@ -1,0 +1,13 @@
+{
+    "saucenao_api": {
+        "description": "SauceNAO API Key",
+        "type": "string",
+        "hint": "sauceno搜图api，可以从 https://saucenao.com/user.php 注册获取",
+        "obvious_hint": true
+    },
+    "wait_seconds": {
+        "description": "发出搜图指令后等待用户发图的秒数",
+        "type": "int",
+        "default": 30
+    }
+}
